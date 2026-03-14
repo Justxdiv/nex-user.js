@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Nex 
+// @name         Nex Bypasser
 // @namespace    http://tampermonkey.net/
 // @version      30.0
 // @description  Nex is a free, fast, and intelligent link bypass tool. It automatically detects and resolves ad-locked and content-gated URLs across multiple platforms, delivering clean destination links instantly through a sleek, non-intrusive interface — no subscriptions, no keys, no hassle.
