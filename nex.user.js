@@ -41,6 +41,7 @@
 // @exclude      *://bstlar.com/privacy*
 // @exclude      *://bstlar.com/dmca*
 // @exclude      *://bstlar.com/wait-for-approval*
+// @icon         https://raw.githubusercontent.com/Justxdiv/nex-user.js/main/Nex_Pic.webp
 // @grant        GM_xmlhttpRequest
 // @grant        GM_setClipboard
 // @grant        GM_getValue
